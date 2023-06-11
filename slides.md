@@ -27,5 +27,5 @@ A bootstrapper for .NET based Microservices using Steeltoe
 </div>
 
 ---
-src: ./pages/multiple-entries.md
+src: ./pages/01-why.md
 ---
