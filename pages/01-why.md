@@ -1,12 +1,12 @@
 # Why
 
-## Microservices are
+## Microservices
 * Popular
 * Complex
 * Time Consuming
-* Learning Curve
+* High Learning Curve
 
-## Benefits
+## Nexus Framework
 * Rapid Development
 * Consistency and Maintainability
 * Modular and Extensible

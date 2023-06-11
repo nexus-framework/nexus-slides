@@ -9,7 +9,7 @@ layout: intro
 
 A bootstrapper for .NET based Microservices using Steeltoe
 
-<div class="abs-bl m-6 gap-2">
+<div class="abs-br m-6">
   <span class="font-700">
     Afroze Amjad
   </span>
@@ -19,12 +19,6 @@ A bootstrapper for .NET based Microservices using Steeltoe
   </a>
 </div>
 
-<div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/afroze9/dotnet-projectmanagement" target="_blank" alt="GitHub"
-    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon-logo-github />
-  </a>
-</div>
 
 ---
 src: ./pages/01-why.md
