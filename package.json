@@ -11,10 +11,10 @@
     "@slidev/theme-apple-basic": "^0.20.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "slidev-theme-geist": "^0.8.1"
+    "slidev-theme-geist": "^0.8.1",
+    "axios": "^1.6.3"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.40.1",
-    "axios": "^1.6.3"
+    "playwright-chromium": "^1.40.1"
   }
 }
